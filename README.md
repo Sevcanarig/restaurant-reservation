@@ -34,14 +34,14 @@ WhatsApp entegrasyonu demo/mock olarak hazırlanmıştır.
 ## 📸 Proje Görselleri
 
 ### Ana Sayfa
-![Ana Sayfa](images/5.png)
+![](5.png)
 
 ### Menü Sayfası
-![Menü Sayfası](images/6.png)
+![](6.png)
 
 ### Galeri
-![Galeri](images/7.png)
+![](7.png)
 
 ### Rezervasyon Formu
-![Rezervasyon Formu](images/8.png)
+![Rezervasyon Formu](8.png)
 
